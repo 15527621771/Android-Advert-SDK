@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\code7\AdvertSDK\AdvertSDK\advertlibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5ee0d31e016176be5a337409373014b914f29be">
+        <dex dex="C:\Users\Administrator\Desktop\code7\AdvertSDK\AdvertSDK\app\build\intermediates\pre-dexed\debug\classes_79d44a8ba66d1a1498198b7a6ffe456f15465d02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\AdvertSDK\advertlibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39ce61220e763fc9876db15a1d57aa843b813b02">
+        <dex dex="F:\workspace\AdvertSDK\app\build\intermediates\pre-dexed\debug\classes_e478655b669c3715761f3b80689207ffa99defab.jar" />
+    </item>
+
+</items>
